@@ -1,0 +1,19 @@
+body {
+    background-color: #33a3dc;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    
+}
+#content-main {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.headline {
+    font-size: 3em;
+}
+.logo {
+    display: block;
+    background: rgba(255, 255, 255, 0.1);
+    /* height: 400px; */
+}
